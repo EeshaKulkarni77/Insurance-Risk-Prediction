@@ -129,9 +129,9 @@ Includes:
 
 ## How to Run
 
-1. Clone the repository: git clone 'https://github.com/EeshaKulkarni77/Insurance-Risk-Prediction-System.git'
+1. Clone the repository: `git clone https://github.com/EeshaKulkarni77/Insurance-Risk-Prediction-System.git`
 
-2. Open the notebook: 'Insurance_Risk_Prediction_Code.ipynb'
+2. Open the notebook: `Insurance_Risk_Prediction_Code.ipynb`
 
 3. Run all cells  
 
